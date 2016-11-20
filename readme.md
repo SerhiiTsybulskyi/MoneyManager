@@ -1,7 +1,4 @@
-## Use JPA + Hibernate + MySQL in Spring Boot
-
-See here for more informations: 
-http://blog.mm.com/2014/10/06/spring-boot-data-access-with-jpa-hibernate-and-mysql/
+## Use JPA + Hibernate + MySQL in Spring Boot + Angular2
 
 ### Usage
 
@@ -23,7 +20,7 @@ database connection.
 
 #### Prerequisites
 
-- Java 7
+- Java 8
 - Maven 3
 
 #### From terminal
