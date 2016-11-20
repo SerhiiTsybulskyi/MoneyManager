@@ -1,0 +1,1 @@
+{"version":3,"sources":["dashboard.component.css"],"names":[],"mappings":"AAAA,MAAM,WAAW,mBAAmB,CAAC,mBAAmB,UAAU,CAAC,IAAI,iBAAiB,CAAC,GAAG,eAAe,CAAC","file":"dashboard.component.css","sourcesContent":["h2,h3{color:#444;font-weight:lighter}input[text],button{color:#888}div{text-align:center}ul{text-align:left}\n"]}

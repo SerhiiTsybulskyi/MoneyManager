@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.component.css"],"names":[],"mappings":"AAAA,IAAI,iBAAiB,CAAC,EAAE,aAAa,CAAC,eAAe,iBAAiB,CAAC,cAAc,gBAAgB,CAAC","file":"app.component.css","sourcesContent":["nav{text-align:center}a{margin:0 1rem}a :first-child{margin-right:1rem}a :last-child{margin-left:1rem}\n"]}
