@@ -1,1 +1,0 @@
-{"version":3,"names":[],"mappings":"","sources":["app/app.component/app.component.html"],"sourcesContent":["<nav>\n    <a [routerLink]=\"['Dashboard']\">Dashboard</a>\n    <a [routerLink]=\"['Server']\">Server</a>\n    <a [routerLink]=\"['404']\">NotFound</a>\n</nav>\n<router-outlet></router-outlet>\n"],"file":"app.component.html"}

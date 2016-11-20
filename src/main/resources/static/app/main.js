@@ -1,2 +1,2 @@
-System.register(["angular2/platform/browser","./app.component/app.component"],function(t,n){"use strict";var e,o;n&&n.id;return{setters:[function(t){e=t},function(t){o=t}],execute:function(){e.bootstrap(o.AppComponent)}}});
+"use strict";var platform_browser_dynamic_1=require("@angular/platform-browser-dynamic"),app_module_1=require("./app.module"),platform=platform_browser_dynamic_1.platformBrowserDynamic();platform.bootstrapModule(app_module_1.AppModule);
 //# sourceMappingURL=main.js.map

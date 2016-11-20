@@ -1,1 +1,0 @@
-{"version":3,"names":[],"mappings":"","sources":["app/server.component/server.component.html"],"sourcesContent":["<h1>SERVER</h1>\n\n<p *ngIf=\"!!errorMessage === false\">Request for random number from server:  {{number}}</p>\n<p *ngIf=\"!!errorMessage === true\">ERROR: {{errorMessage}}</p>"],"file":"server.component.html"}
